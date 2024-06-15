@@ -5,4 +5,5 @@ Hello! I'm Tanner, a master's degree student passionate about computer science. 
 ## About Me
 
 - **Name**: Tanner Huseman
-- **University**: Merrimack College
+- **Undergrad**: Boston Conservatory at Berklee College of Music
+- **Graduate**: Merrimack College
